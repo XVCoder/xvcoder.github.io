@@ -133,6 +133,7 @@ music:
   autoplay: true  # 是否开启自动播放
 
 friends:
+  wiki: http://wiki.solutionx.top:8080
   大鱼: https://www.bbt360.ml/
   书签备份: /bookmark/bookmarks.html
 
