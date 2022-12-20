@@ -30,3 +30,7 @@ $ hexo s -p 5000
 ``` bash
 $ hexo g -d
 ```
+
+【软件版本说明】  
+1、node: v12.16.2  
+2、hexo-cli: 4.3.0  
